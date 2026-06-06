@@ -48,7 +48,7 @@ A) PMF.
 B) PDF.
 C) CDF.
 D) MGF."""
-    return "A"
+    return "C"
 
 def q07() -> str:
     """[MC] Simpangan baku () adalah:
