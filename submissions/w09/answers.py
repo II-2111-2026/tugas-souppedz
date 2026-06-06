@@ -59,7 +59,7 @@ A) (,)/ () X
 B) (,)/()
 C) () () X
 D) (,)− () X"""
-    return "B"
+    return "A"
 
 def q08() -> float:
     """[Numeric] Jika (X,) = 2, X = 2, = 2, berapakah koefisien korelasinya?"""
