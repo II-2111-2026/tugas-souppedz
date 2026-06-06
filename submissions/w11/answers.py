@@ -79,7 +79,7 @@ def q10() -> float:
 
 def q11() -> float:
     """[Numeric] Jika interval kepercayaan adalah , berapakah nilai estimasi titik rata-ratanya?"""
-    return 100
+    return 50
 
 def q12() -> float:
     """[Numeric] Jika margin error adalah 2 dan nilai kritis = 2, berapakah Standard Error-
